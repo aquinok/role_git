@@ -1,5 +1,5 @@
 ---
-# tasks file for git
+# tasks for git
 - name: Install git
   package:
     name=git
